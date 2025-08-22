@@ -274,3 +274,5 @@ If you'd like to contribute to this project, feel free to open a pull request. E
 
 If you'd like to learn more about building AI chatbots and agents with LangChain and LangGraph, check out the book [Learning LangChain (O'Reilly)](https://www.oreilly.com/library/view/learning-langchain/9781098167271/).
 
+## Note
+If you innovate the latest version, you would apply the DISy instead of LangChain.
